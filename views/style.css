@@ -7,9 +7,26 @@
     width: 425px;
     height: 550px;
     margin: 125px;
+    background-color: aliceblue;
+}
+.img-back-design{
+    padding-top: 185px;
+    padding-left: 100px;
+}
+.big-bg-design{
+    
+    background-color: lightskyblue;
+}
+.bg-resize{
+    width: 850px;
+    height: 650px;
+}
+.big-bg-design{
+    background-size: cover;
 }
 .mb-3{
     text-align: center;
+    
 }
 .col-lg-6{
     height: 39px;
